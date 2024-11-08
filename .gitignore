@@ -1,0 +1,11 @@
+# Windows Form .NET Core project
+.vs/
+.vscode/
+bin/
+obj/
+**/bin/
+**/obj/
+*.user
+*.userosscache
+*.suo
+
